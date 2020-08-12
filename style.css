@@ -1,0 +1,14 @@
+.head{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    text-decoration: underline;
+}
+fieldset{
+    border-radius: 20px;
+    border: 1px solid blue;
+}
+.button{
+    text-align: center;
+}
